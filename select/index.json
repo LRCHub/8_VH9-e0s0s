@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "SHOOTER",
+  "base_artist": "LUMiRiSE",
+  "createdAt": "2025-12-02T19:20:10.902137Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Super Sharp Shooter",
+      "artist": "The Ganja Kru",
+      "has_synced": false,
+      "path": "select/01_Super_Sharp_Shooter_The_Ganja_Kru.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sex Shooter",
+      "artist": "Apollonia 6",
+      "has_synced": true,
+      "path": "select/02_Sex_Shooter_Apollonia_6.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shooter",
+      "artist": "Gucci Mane feat. Young Scooter & Yung Fresh",
+      "has_synced": false,
+      "path": "select/03_Shooter_Gucci_Mane_feat._Young_Scooter_&_Yung_Fresh.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shooter (feat. Young Scooter & Yung Fresh)",
+      "artist": "Gucci Mane",
+      "has_synced": false,
+      "path": "select/04_Shooter_(feat._Young_Scooter_&_Yung_Fresh)_Gucci_Mane.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Red Light Shooter",
+      "artist": "Loudness",
+      "has_synced": true,
+      "path": "select/05_Red_Light_Shooter_Loudness.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sex Shooter - Originals Version",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/06_Sex_Shooter_-_Originals_Version_Prince.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sex Shooter",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/07_Sex_Shooter_Prince.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Straight Shooter",
+      "artist": "Skylar Grey",
+      "has_synced": true,
+      "path": "select/08_Straight_Shooter_Skylar_Grey.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Six Shooter",
+      "artist": "Queens of the Stone Age",
+      "has_synced": true,
+      "path": "select/09_Six_Shooter_Queens_of_the_Stone_Age.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "High Ball Shooter",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/10_High_Ball_Shooter_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "High Ball Shooter",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/11_High_Ball_Shooter_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "High Ball Shooter",
+      "artist": "Glenn Hughes",
+      "has_synced": false,
+      "path": "select/12_High_Ball_Shooter_Glenn_Hughes.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Straight Shooter",
+      "artist": "Molly Hatchet",
+      "has_synced": false,
+      "path": "select/13_Straight_Shooter_Molly_Hatchet.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "High Ball Shooter - 2009 Digital Remaster",
+      "artist": "Deep Purple",
+      "has_synced": false,
+      "path": "select/14_High_Ball_Shooter_-_2009_Digital_Remaster_Deep_Purple.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "High Ball Shooter (2009 Digital Remaster)",
+      "artist": "Deep Purple",
+      "has_synced": false,
+      "path": "select/15_High_Ball_Shooter_(2009_Digital_Remaster)_Deep_Purple.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "High Ball Shooter - Quadrophonic Mix;Stereo;2009 Digital Remaster",
+      "artist": "Deep Purple",
+      "has_synced": false,
+      "path": "select/16_High_Ball_Shooter_-_Quadrophonic_Mix;Stereo;2009_Digital_Remaster_Deep_Purple.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SHOOTER",
+      "artist": "LUMiRiSE",
+      "has_synced": false,
+      "path": "select/pl_01_SHOOTER_LUMiRiSE.txt"
+    }
+  ]
+}
